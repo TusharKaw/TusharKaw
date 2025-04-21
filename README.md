@@ -22,28 +22,13 @@ Welcome to my GitHub! I’m an IT Project Manager with a background in full-stac
 
 ---
 
-## 📂 Highlight Projects
-
-### 🔹 Project Analytics Dashboard  
-A full-stack analytics dashboard for tracking key project metrics and team productivity. Features data visualizations, user roles, and exportable reports.
-
-### 🔹 Find Meet Chat  
-A dating-style MERN platform enabling users to connect, match, and chat in real time. Includes private messaging, user profiles, and scalable backend architecture.
-
-### 🔹 Personal Chatroom  
-A privacy-first chat application deployed on the TOR network with real-time messaging via Socket.IO and onion routing for secure, anonymous communication.
-
-### 🔹 Chess Royale  
-A web-based chess game with 10 difficulty levels, powered by a custom AI engine using Minimax and alpha-beta pruning.
-
----
-
 ## 📫 Let’s Connect
 
-Feel free to explore my repositories or reach out for collaboration, consulting, or professional networking:
+## 🌐 Connect with Me
 
-- 📧 Email: [tusharkaw64@gmail.com]
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/tusharkaw/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Kaw-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharkaw/)
+[![Instagram](https://img.shields.io/badge/Instagram-tusharkaw-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tusharkaw/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-242424?logo=firefox-browser&logoColor=white)](https://peaceful-dusk-4e0a1a.netlify.app/)
 
 ---
 
