@@ -25,8 +25,8 @@ Welcome to my GitHub! I’m an IT Project Manager with a background in full-stac
 ## 🛠️ Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=tusharkaw&theme=maroongold&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=tusharkaw&theme=maroongold&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkaw&theme=maroongold&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tusharkaw&theme=maroongold&hide_border=false)
 
 ---
 
