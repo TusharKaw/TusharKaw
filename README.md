@@ -1,4 +1,5 @@
 # Hi there, I'm Tushar 👋
+<img src="https://komarev.com/ghpvc/?username=tusharkaw" alt="tusharkaw" />
 
 Welcome to my GitHub! I’m an IT Project Manager with a background in full-stack development and telecom infrastructure. I specialize in leading cross-functional teams, driving end-to-end technical projects, and aligning digital solutions with business goals.
 
