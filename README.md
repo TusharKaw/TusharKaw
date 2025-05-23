@@ -67,7 +67,7 @@ Welcome to my GitHub! I’m an IT Project Manager with a background in full-stac
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Kaw-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharkaw/)
 [![Instagram](https://img.shields.io/badge/Instagram-tusharkaw-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tusharkaw/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-242424?logo=firefox-browser&logoColor=white)](https://peaceful-dusk-4e0a1a.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-242424?logo=firefox-browser&logoColor=white)](https://tusharkaw.netlify.app/)
 
 ---
 
