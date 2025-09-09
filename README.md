@@ -2,13 +2,15 @@
 <a href="https://tusharkaw.netlify.app/"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/channel/tusharkaw7098"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/tusharkaw"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/OVh1x1m.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/tusharkaw"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/YOUR_DISCORD"><img width="32px" alt="Discord" title="Join our community" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://www.linkedin.com/in/tusharkaw/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/0Z0fZkL.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/tusharkaw"><img width="32px" alt="Dev.to" title="Tushar Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://discord.gg/tusharkaw_08746"><img width="32px" alt="Discord" title="Join our community" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/tusharkaw"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -18,19 +20,19 @@
 <br/>
 
 <p>
-Hi 👋, I am **Tushar Kaw**, an IT Project Manager, full-stack developer, and telecom enthusiast. I specialize in **MERN stack**, **network design**, and **technical leadership**. I love networking, contributing to open-source, and building impactful projects ✨
+Hi 👋, I am *Tushar Kaw*, an IT Project & Operation Manager, FULL STACK | GAME DEVELOPMENT | BLOCKCHAIN | AI. I specialize in *MERN stack*, *network design*, and *technical leadership*. I love networking, contributing to open-source, and building impactful projects ✨
 </p>
 
 <div>
 <details>
   <summary>🧑 More about me</summary>
 
-- 🔭 I’m currently on a journey to **deliver great IT & development projects**
+- 🔭 I’m currently on a journey to **build great websites & applications**
 - 🌱 I’m learning **advanced cloud, AI, and full-stack architectures**
 - 🤝 I’m looking for help with **open-source contributions & tech collaborations**
 - 👨‍💻 All of my projects are available at [tusharkaw.netlify.app](https://tusharkaw.netlify.app/)
-- 💬 Ask me about **full-stack development, project management, and telecom systems**
-- 📫 Reach me at **contact@tusharkaw.netlify.app**
+- 💬 Ask me about **full-stack development, project management, and internet systems**
+- 📫 Reach me at **tusharkaw64@gmail.com**
 
 </details>
 </div>
