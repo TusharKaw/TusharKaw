@@ -1,5 +1,5 @@
 <!-- Banner / Intro -->
-<a href="https://tusharkaw.netlify.app/"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
+<a href="https://tusharkaw.netlify.app/"><img src="https://cdna.artstation.com/p/assets/images/images/089/317/002/large/tushar-kaw-lunai.jpg?1750667175" width="100%" height="auto"/></a>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/tusharkaw7098"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
