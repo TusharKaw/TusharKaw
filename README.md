@@ -3,20 +3,28 @@
 <img align="right" width="50%" src="img/mitsuri.gif"/>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/tusharkaw7098"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.instagram.com/tusharkaw">
+    <img width="32px" alt="Instagram" title="Instagram" src="large/filled/instagram.svg"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/tusharkaw"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/OVh1x1m.png"/></a>
+  <a href="https://www.linkedin.com/in/tusharkaw/">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="large/filled/linkedin.svg"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/tusharkaw"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://discord.gg/tusharkaw_08746">
+    <img width="32px" alt="Discord" title="Discord" src="large/filled/discord.svg"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/tusharkaw/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/0Z0fZkL.png"/></a>
+  <a href="https://www.youtube.com/channel/tusharkaw7098">
+    <img width="32px" alt="YouTube" title="YouTube" src="large/filled/youtube.svg"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/tusharkaw_08746"><img width="32px" alt="Discord" title="Join our community" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/tusharkaw"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patreon.com/tusharkaw"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href="https://open.spotify.com/user/tusharkaw">
+    <img width="32px" alt="Spotify" title="Spotify" src="large/filled/spotify.svg"/>
+  </a>
 </p>
+
+
 
 <br/>
 
@@ -38,6 +46,8 @@ Hi 👋, I am *Tushar Kaw*, an IT Project & Operation Manager, FULL STACK | GAME
 </details>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🔥 GitHub Stats
 
 <img align="left" width="40%" src="https://i.imgur.com/VxANS89.jpg"/>
@@ -45,6 +55,8 @@ Hi 👋, I am *Tushar Kaw*, an IT Project & Operation Manager, FULL STACK | GAME
 <a href="https://github.com/tusharkaw"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=tusharkaw&theme=radical&show_icons=true&count_private=true&hide_border=false" /></a>
 <a href="https://github.com/tusharkaw"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=tusharkaw&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" /></a>
 <a href="https://github.com/tusharkaw"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkaw&theme=radical&show_icons=true&include_all_commits=false&count_private=true&layout=compact" /></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📘 My top open source projects
 
@@ -63,6 +75,14 @@ Hi 👋, I am *Tushar Kaw*, an IT Project & Operation Manager, FULL STACK | GAME
   <a href="https://github.com/tusharkaw?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/tusharkaw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=danielex1999&margin-w=10&row=1&theme=gruvbox&no-bg=true"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎮 Try pressing the buttons and come back down
 
