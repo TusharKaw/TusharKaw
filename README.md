@@ -1,5 +1,5 @@
 <!-- Banner / Intro -->
-<a href="https://tusharkaw.netlify.app/"><img src="https://cdna.artstation.com/p/assets/images/images/089/317/002/large/tushar-kaw-lunai.jpg?1750667175" width="100%" height="auto"/></a>
+<a href="https://tusharkaw.netlify.app/"><img src="https://cdna.artstation.com/p/assets/images/images/089/317/002/large/tushar-kaw-lunai.jpg?1750667175" width="50%" height="auto"/></a>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/tusharkaw7098"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -47,8 +47,8 @@ Hi 👋, I am *Tushar Kaw*, an IT Project & Operation Manager, FULL STACK | GAME
 ## 📘 My top open source projects
 
 <p align="left">
-    <a href="https://github.com/tusharkaw/Project1"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tusharkaw&repo=Project1&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Project1"></a>
-    <a href="https://github.com/tusharkaw/Project2"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=tusharkaw&repo=Project2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Project2"></a>
+    <a href="https://github.com/TusharKaw/xfanstube"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tusharkaw&repo=Project1&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="XFansTube"></a>
+    <a href="https://github.com/tusharkaw/luna-ai"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=tusharkaw&repo=Project2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LunaAI"></a>
 </p>
 
 <p align="left">
