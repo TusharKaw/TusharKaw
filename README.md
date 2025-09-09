@@ -1,5 +1,6 @@
 <!-- Banner / Intro -->
-<a href="https://tusharkaw.netlify.app/"><img src="https://cdna.artstation.com/p/assets/images/images/089/317/002/large/tushar-kaw-lunai.jpg?1750667175" width="50%" height="auto"/></a>
+<a href="https://tusharkaw.netlify.app/"><img src="https://cdna.artstation.com/p/assets/images/images/089/317/002/large/tushar-kaw-lunai.jpg?1750667175" width="48%" height="auto"/></a>
+<a href="https://tusharkaw.netlify.app/"><img align="right" src="https://cdna.artstation.com/p/assets/images/images/087/228/894/large/tushar-kaw-nbt-3.jpg?1745257271" width="50%" height="auto"/></a>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/tusharkaw7098"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
