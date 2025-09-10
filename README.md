@@ -29,7 +29,7 @@
 <br/>
 
 <p>
-Hi 👋, I am *Tushar Kaw*, an IT Project & Operation Manager, FULL STACK | GAME DEVELOPMENT | BLOCKCHAIN | AI. I specialize in *MERN stack*, *network design*, and *technical leadership*. I love networking, contributing to open-source, and building impactful projects ✨
+Hi 👋, I am Tushar Kaw, an IT Project & Operation Manager, 🚀 FULL STACK | 🎮 GAME DEV | 🔗 BLOCKCHAIN | 🤖 AI. I specialize in MERN stack, network design, and technical leadership. I love networking, contributing to open-source, and building impactful websites & applications ✨
 </p>
 
 <div>
@@ -61,29 +61,27 @@ Hi 👋, I am *Tushar Kaw*, an IT Project & Operation Manager, FULL STACK | GAME
 ## 📘 My top open source projects
 
 <p align="left">
-    <a href="https://github.com/TusharKaw/xfanstube"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tusharkaw&repo=Project1&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="XFansTube"></a>
-    <a href="https://github.com/tusharkaw/luna-ai"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=tusharkaw&repo=Project2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LunaAI"></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/tusharkaw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/TusharKaw/xfanstube">
+    <img width="35%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tusharkaw&repo=xfanstube&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react" alt="XFansTube">
+  </a>
+  <a href="https://github.com/TusharKaw/luna-ai">
+    <img width="35%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tusharkaw&repo=luna-ai&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react" alt="LunaAI">
+  </a>
 </p>
 
 <p align="right">
   <a href="https://github.com/tusharkaw?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Ftusharkaw"/></a>
-  <a href="https://github.com/tusharkaw?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/tusharkaw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=danielex1999&margin-w=10&row=1&theme=gruvbox&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=tusharkaw&margin-w=10&row=1&theme=gruvbox&no-bg=true"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ## Languages and Tools
 <p align="left">  
