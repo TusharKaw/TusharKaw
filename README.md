@@ -92,7 +92,7 @@ Hi 👋, I am Tushar Kaw, an IT Project & Operation Manager, 🚀 FULL STACK | �
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Languages and Tools
-<p align="left">  
+<p align="center">  
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank"> 
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></code>  
