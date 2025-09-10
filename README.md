@@ -1,4 +1,3 @@
-<!-- Banner / Intro -->
 <a href="https://tusharkaw.netlify.app/"><img src="https://cdna.artstation.com/p/assets/images/images/089/317/002/large/tushar-kaw-lunai.jpg?1750667175" width="48%" height="auto"/></a>
 <img align="right" width="50%" src="img/mitsuri.gif"/>
 
@@ -85,13 +84,7 @@ Hi 👋, I am Tushar Kaw, an IT Project & Operation Manager, 🚀 FULL STACK | �
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=tusharkaw&margin-w=10&row=1&theme=gruvbox&no-bg=true"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Languages and Tools
+## 💻 Languages and Tools
 <p align="center">  
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank"> 
@@ -154,4 +147,10 @@ Hi 👋, I am Tushar Kaw, an IT Project & Operation Manager, 🚀 FULL STACK | �
   </a>  
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🏅 Github Trophies
+
+<p align="center">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=tusharkaw&margin-w=10&row=1&theme=gruvbox&no-bg=true"/>
+</p>
