@@ -157,7 +157,7 @@ Hi 👋, I am Tushar Kaw, an IT Project & Operation Manager, 🚀 FULL STACK | �
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width="50%" src="img/l.gif"/>
+<img align="right" width="49%" src="img/l.gif"/>
 
 <br>
 <br>
@@ -165,15 +165,15 @@ Hi 👋, I am Tushar Kaw, an IT Project & Operation Manager, 🚀 FULL STACK | �
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Have+a+great+day+🚀;Let's+build+amazing+projects+together!">
+  <img width="49%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Have+a+great+day+🚀;Let's+build+amazing+projects+together!">
 </p>
 
 <p align="center">
   <a href="https://github.com/tusharkaw?tab=followers">
-    <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-236ad3?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
+    <img width="49%" src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-236ad3?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
   </a>
   <a href="https://github.com/tusharkaw?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/badge/Star%20My%20Repos-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Star"/>
+    <img width="49%" src="https://img.shields.io/badge/Star%20My%20Repos-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Star"/>
   </a>
 </p>
 
