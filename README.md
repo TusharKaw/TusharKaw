@@ -164,11 +164,11 @@ Hi 👋, I am Tushar Kaw, an IT Project & Operation Manager, 🚀 FULL STACK | �
 <br>
 <br>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Have+a+great+day+🚀;Let's+build+amazing+projects+together!">
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/tusharkaw?tab=followers">
     <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-236ad3?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
   </a>
