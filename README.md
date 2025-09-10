@@ -25,15 +25,16 @@
 
 <p align="center">
   <a href="https://github.com/tusharkaw?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Ftusharkaw"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=c2a057&labelColor=3d2f1c&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Ftusharkaw"/>
   </a>
   <a href="https://github.com/tusharkaw?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/tusharkaw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/tusharkaw?color=b66fa1&labelColor=4a224a&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   <a href="https://github.com/tusharkaw">
-    <img alt="profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=tusharkaw&style=for-the-badge&color=orange"/>
+    <img alt="profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=tusharkaw&style=for-the-badge&color=b34a4a"/>
   </a>
 </p>
+
 
 <p>
 Hi 👋, I am Tushar Kaw, an IT Project & Operation Manager, 🚀 FULL STACK | 🎮 GAME DEV | 🔗 BLOCKCHAIN | 🤖 AI. I specialize in MERN stack, network design, and technical leadership. I love networking, contributing to open-source, and building impactful websites & applications ✨
@@ -165,7 +166,7 @@ Hi 👋, I am Tushar Kaw, an IT Project & Operation Manager, 🚀 FULL STACK | �
 <br>
 
 <p align="center">
-  <img width="49%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Have+a+great+day+🚀;Let's+build+amazing+projects+together!">
+  <img width="49%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Have+a+great+day+🚀">
 </p>
 
 <p align="center">
