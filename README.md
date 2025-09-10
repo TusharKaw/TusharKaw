@@ -84,13 +84,68 @@ Hi 👋, I am *Tushar Kaw*, an IT Project & Operation Manager, FULL STACK | GAME
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎮 Try pressing the buttons and come back down
 
-<div style="background:white;">
-<img src="https://toy.aoaoao.me/image" width="300"/> 
+## Languages and Tools
+<p align="left">  
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank"> 
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></code>  
+  </a>  
 
-<br><a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/tusharkaw"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/up.png" width="35"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/tusharkaw"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/left.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/tusharkaw"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/right.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/tusharkaw"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/B.png" width="35"/></a> <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/tusharkaw"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/A.png" width="35"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/tusharkaw"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/down.png" width="35"/></a>
-<br><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/tusharkaw"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/select.png" height="35"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/tusharkaw"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/start.png" height="35" /></a>
-</div>
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank"> 
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></code>  
+  </a>  
+
+  <!-- PHP -->
+  <a href="https://www.php.net/" target="_blank"> 
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></code>  
+  </a>  
+
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></code>  
+  </a>  
+
+  <!-- CSS -->
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></code>  
+  </a>  
+
+  <!-- Javascript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></code>  
+  </a>  
+
+  <!-- Unreal Engine -->
+  <a href="https://unrealengine.com/" target="_blank"> 
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/></code>  
+  </a>  
+
+  <!-- Unity -->
+  <a href="https://unity.com/" target="_blank"> 
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/></code>  
+  </a>  
+
+  <!-- C++ -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>  
+  </a>  
+
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank"> 
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>  
+  </a>  
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank"> 
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
+  </a>  
+
+  <!-- Microsoft Excel (custom icon since not in Devicon) -->
+  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank"> 
+    <code><img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="excel" width="40" height="40"/></code>  
+  </a>  
+</p>
+
+
