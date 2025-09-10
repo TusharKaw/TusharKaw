@@ -160,13 +160,15 @@ Hi 👋, I am Tushar Kaw, an IT Project & Operation Manager, 🚀 FULL STACK | �
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width="35%" src="img/l.gif"/>
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF69B4&vCenter=true&width=300&lines=Thanks+for+stopping+by!;Have+a+great+day+🚀">
+<p align="center">
+  <img src="img/l.gif" width="300"/>
 </p>
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Have+a+great+day+🚀">
+</p>
+
+<p align="center">
   <a href="https://github.com/tusharkaw?tab=followers">
     <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-236ad3?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -174,4 +176,6 @@ Hi 👋, I am Tushar Kaw, an IT Project & Operation Manager, 🚀 FULL STACK | �
     <img src="https://img.shields.io/badge/Star%20My%20Repos-FFD700?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+
 
