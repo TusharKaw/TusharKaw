@@ -154,3 +154,26 @@ Hi 👋, I am Tushar Kaw, an IT Project & Operation Manager, 🚀 FULL STACK | �
 <p align="center">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=tusharkaw&margin-w=10&row=1&theme=gruvbox&no-bg=true"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img align="right" width="50%" src="img/l.gif"/>
+
+<br>
+<br>
+<br>
+<br>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Have+a+great+day+🚀;Let's+build+amazing+projects+together!">
+</p>
+
+<p align="left">
+  <a href="https://github.com/tusharkaw?tab=followers">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-236ad3?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
+  </a>
+  <a href="https://github.com/tusharkaw?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/badge/Star%20My%20Repos-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Star"/>
+  </a>
+</p>
+
