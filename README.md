@@ -170,10 +170,10 @@ Hi 👋, I am Tushar Kaw, an IT Project & Operation Manager, 🚀 FULL STACK | �
 
 <p align="center">
   <a href="https://github.com/tusharkaw?tab=followers">
-    <img width="49%" src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-236ad3?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
+    <img width="20%" src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-236ad3?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
   </a>
   <a href="https://github.com/tusharkaw?tab=repositories&sort=stargazers">
-    <img width="49%" src="https://img.shields.io/badge/Star%20My%20Repos-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Star"/>
+    <img width="15%" src="https://img.shields.io/badge/Star%20My%20Repos-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Star"/>
   </a>
 </p>
 
